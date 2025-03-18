@@ -19,6 +19,7 @@ import Nav from './components/Nav&Tabs';
 import Pagination from './components/Pagination';
 import Placeholder from './components/Placeholder';
 import Popover from './components/Popovers';
+import Prog from './components/Progress';
 
 function App() {
   return (
@@ -40,6 +41,7 @@ function App() {
     <Pagination/>
     <Placeholder/>
     <Popover/>
+    <Prog/>
     </>
   );
 }
