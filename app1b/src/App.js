@@ -20,6 +20,8 @@ import Pagination from './components/Pagination';
 import Placeholder from './components/Placeholder';
 import Popover from './components/Popovers';
 import Prog from './components/Progress';
+import Scroll from './components/Scrollspy';
+import Spin from './components/Spinner';
 
 function App() {
   return (
@@ -42,6 +44,8 @@ function App() {
     <Placeholder/>
     <Popover/>
     <Prog/>
+    <Scroll/>
+    <Spin/>
     </>
   );
 }

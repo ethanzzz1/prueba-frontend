@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Alerts (){
+function Scroll (){
     return (
 <> 
 <nav id="navbar-example2" class="navbar bg-body-tertiary px-3 mb-3">
@@ -40,4 +40,4 @@ function Alerts (){
     );
 }
 
-export default Alerts
+export default Scroll
